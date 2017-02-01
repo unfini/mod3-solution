@@ -1,0 +1,20 @@
+#collapsable-nav {
+	padding: 0;
+}
+
+
+#collapsable-nav div {
+	border: 1px solid;
+	border-collapse: collapse;
+	width: 100%;
+	background-color: #a4bba7;
+}
+
+.navbar, .navbar-default {
+	margin-bottom: 0;
+}
+
+#textblock div div p {
+	padding: 10px;
+	background-color: #c5bba7;
+}
